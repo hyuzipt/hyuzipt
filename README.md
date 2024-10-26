@@ -41,10 +41,10 @@ I'm a passionate developer still on my learning journey, exploring new things an
 
 ### 📊 Stats
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hyuzipt&theme=gruvbox)
 ![Hyuzipt's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuzipt&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hyuzipt&theme=gruvbox&border_radius=4.5)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hyuzipt&show_icons=true&theme=gruvbox)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hyuzipt&theme=gruvbox)
 
 #
 
